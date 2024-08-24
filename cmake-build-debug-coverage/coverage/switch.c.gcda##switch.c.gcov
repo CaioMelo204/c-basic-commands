@@ -1,0 +1,43 @@
+        -:    0:Source:C:/Users/caiog/CLionProjects/learning/basic/switch.c
+        -:    0:Graph:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\switch.c.gcno
+        -:    0:Data:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\switch.c.gcda
+        -:    0:Runs:1
+        -:    1://Switch
+        -:    2:#include <stdio.h>
+        -:    3:
+function switchDecision called 0 returned 0% blocks executed 0%
+    #####:    4:void switchDecision () {
+        -:    5:    int valor;
+        -:    6:
+    #####:    7:    printf("Digite um valor entre 1 e 3: \n");
+    %%%%%:    7-block  0
+call    0 never executed
+    #####:    8:    scanf("%d", &valor);
+call    0 never executed
+        -:    9:
+    #####:   10:    switch (valor) {
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+    #####:   11:        case 1:
+    #####:   12:            printf("escolheu o numero 1 \n");
+    %%%%%:   12-block  0
+call    0 never executed
+    #####:   13:        break;
+    #####:   14:        case 2:
+    #####:   15:            printf("escolheu o numero 2 \n");
+    %%%%%:   15-block  0
+call    0 never executed
+    #####:   16:        break;
+    #####:   17:        case 3:
+    #####:   18:            printf("escolheu o numero 3 \n");
+    %%%%%:   18-block  0
+call    0 never executed
+    #####:   19:        break;
+    #####:   20:        default:
+    #####:   21:            printf("Valor invalido\n");
+    %%%%%:   21-block  0
+call    0 never executed
+        -:   22:    }
+    #####:   23:}

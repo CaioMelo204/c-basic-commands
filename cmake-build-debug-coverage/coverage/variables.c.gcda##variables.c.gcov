@@ -1,0 +1,32 @@
+        -:    0:Source:C:/Users/caiog/CLionProjects/learning/basic/variables.c
+        -:    0:Graph:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\variables.c.gcno
+        -:    0:Data:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\variables.c.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by caiog on 23/08/2024.
+        -:    3://
+        -:    4:// Aula sobre Variaveis
+        -:    5:#include <stdio.h>
+        -:    6:
+function variables called 0 returned 0% blocks executed 0%
+    #####:    7:int variables() { // bloco de codigo (inicio)
+        -:    8:    // declarando variaveis
+        -:    9:    int idade; //inteiro
+        -:   10:
+        -:   11:    // declarando e inicializando
+        -:   12:    //int idade = 0
+        -:   13:
+        -:   14:    // funcao para escrever algo na saida padrao
+    #####:   15:    printf("Qual a sua Idade? \n"); // ponto e virgula finaliza um comando
+    %%%%%:   15-block  0
+call    0 never executed
+        -:   16:
+        -:   17:
+        -:   18:    // Receber dados
+    #####:   19:    scanf("%d", &idade);
+call    0 never executed
+        -:   20:
+    #####:   21:    printf("A sua idade é %d", idade);
+call    0 never executed
+    #####:   22:    return 0;
+        -:   23:} // (fim do bloco)

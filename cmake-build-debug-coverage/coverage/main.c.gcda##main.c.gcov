@@ -1,0 +1,31 @@
+        -:    0:Source:C:/Users/caiog/CLionProjects/learning/main.c
+        -:    0:Graph:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\main.c.gcno
+        -:    0:Data:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\main.c.gcda
+        -:    0:Runs:1
+        -:    1:#include <stdio.h>
+        -:    2:
+        -:    3:
+function main called 1 returned 0% blocks executed 33%
+        1:    4:void main() {
+        -:    5:    // Inteiros
+        1:    6:    int integer = 204;
+        1:    7:    scanf("%d",&integer);
+        1:    7-block  0
+call    0 returned 0
+        -:    8:
+        -:    9:    // Reais
+    #####:   10:    float decimal = 3.14159;
+    #####:   11:    double decimalDouble = 3.14159; // float x2
+    #####:   12:    scanf("%f",&decimalDouble);
+call    0 never executed
+    #####:   13:    scanf("%lf",&decimalDouble);
+call    0 never executed
+        -:   14:    // Alfanumericos char
+    #####:   15:    char character = 'A';
+    #####:   16:    scanf("%c",&character);
+call    0 never executed
+        -:   17:    // na linguagem c não existe string
+    #####:   18:    char greetings[] = "   sandino     ";
+    #####:   19:    scanf("%s", greetings);
+call    0 never executed
+    #####:   20:}

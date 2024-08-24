@@ -1,0 +1,51 @@
+        -:    0:Source:C:/Users/caiog/CLionProjects/learning/basic/repetition-structures.c
+        -:    0:Graph:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\repetition-structures.c.gcno
+        -:    0:Data:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\basic\repetition-structures.c.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by caiog on 23/08/2024.
+        -:    3:// Repetition Structures
+        -:    4:#include <stdio.h>
+        -:    5:
+function repetition called 0 returned 0% blocks executed 0%
+    #####:    6:void repetition() {
+    #####:    7:    int numero, soma = 0;
+    %%%%%:    7-block  0
+        -:    8:
+        -:    9:    // com while
+        -:   10:    // printf("Informe um numero: \n");
+        -:   11:    // scanf("%d", &numero);
+        -:   12:    // soma = soma + numero;
+        -:   13:    // while (numero != 0) {
+        -:   14:    //     printf("Informe um numero: \n");
+        -:   15:    //     scanf("%d", &numero);
+        -:   16:    //     soma = soma + numero;
+        -:   17:    // }
+        -:   18:
+        -:   19:    //com do while
+        -:   20:    do {
+    #####:   21:        printf("Informe um numero: \n");
+    %%%%%:   21-block  0
+call    0 never executed
+    #####:   22:        scanf("%d", &numero);
+call    0 never executed
+        -:   23:
+    #####:   24:        soma = soma + numero;
+    #####:   25:    } while (numero != 0);
+branch  0 never executed
+branch  1 never executed (fallthrough)
+        -:   26:
+        -:   27:    // usando For
+        -:   28:    // printf("Informe um numero: \n");
+        -:   29:    // scanf("%d", &numero);
+        -:   30:    // // que ele some 4 vezes
+        -:   31:    // for (int i = 0; i < 4 ; i++) {
+        -:   32:    //     soma += numero;
+        -:   33:    // }
+        -:   34:
+        -:   35:
+    #####:   36:    printf("Soma = %d\n", soma);
+    %%%%%:   36-block  0
+call    0 never executed
+    #####:   37:}
+        -:   38:

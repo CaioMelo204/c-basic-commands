@@ -1,0 +1,14 @@
+        -:    0:Source:C:/Users/caiog/CLionProjects/learning/data-types/data-types.c
+        -:    0:Graph:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\data-types\data-types.c.gcno
+        -:    0:Data:C:\Users\caiog\CLionProjects\learning\cmake-build-debug-coverage\CMakeFiles\learning.dir\data-types\data-types.c.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by caiog on 23/08/2024.
+        -:    3:// numericos
+        -:    4:
+        -:    5:#include <stdio.h>
+        -:    6:
+function numbers called 0 returned 0% blocks executed 0%
+    #####:    7:void numbers() {
+        -:    8:
+    #####:    9:}

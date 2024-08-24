@@ -1,0 +1,27 @@
+# ninja log v6
+4	90	7462247351827390	CMakeFiles/learning.dir/main.c.obj	9d36ba26ca050385
+17	107	7462209501043334	CMakeFiles/learning.dir/structs/alias.c.obj	3ebbab3eacc24728
+85	173	7462247778766569	learning.exe	b5fc158373f1fa4d
+28	150	7462189758903008	CMakeFiles/learning.dir/pointers/array-pointers.c.obj	3464f76e18959306
+14	85	7460886414494996	CMakeFiles/learning.dir/variables.c.obj	51637e5f36906407
+32	131	7460899685203299	CMakeFiles/learning.dir/repetitionStructures.c.obj	768747ca456ccf99
+29	138	7460915189666739	CMakeFiles/learning.dir/basic/estruturas-decisao.c.obj	138990431306a387
+15	93	7460892968068993	CMakeFiles/learning.dir/estruturas-decisao.c.obj	4dc6cea4c0ba6c43
+15	131	7460899685036567	CMakeFiles/learning.dir/switch.c.obj	e01c3eb7af60ce15
+2	250	7462250986133070	build.ninja	43765450b046faa8
+14	124	7460915189510081	CMakeFiles/learning.dir/basic/variables.c.obj	56365aa3fb3e164
+50	153	7460915189881611	CMakeFiles/learning.dir/basic/switch.c.obj	11eac6f6962625a0
+70	183	7460915190075067	CMakeFiles/learning.dir/basic/repetition-structures.c.obj	15713b4737a4a02
+15	104	7460928252515169	CMakeFiles/learning.dir/data-types/data-types.c.obj	2823cdd6de757ec8
+14	106	7460933197846796	CMakeFiles/learning.dir/data-types/matematical-operations.c.obj	2ffdf8f9fae9a30b
+14	126	7460938218119930	CMakeFiles/learning.dir/vectors/vectors.c.obj	9a56d2689faeac2c
+16	106	7460947250039353	CMakeFiles/learning.dir/vectors/matrix.c.obj	90900bd2bca3d3ce
+16	102	7460952404069666	CMakeFiles/learning.dir/binaries/bynary.c.obj	2d3f3c8ac7c1e1e4
+28	108	7460970601450455	CMakeFiles/learning.dir/functions/prototipos.c.obj	751549d208c70c4f
+5	74	7460958495300415	CMakeFiles/learning.dir/functions/functions.c.obj	64a86734cf366d1c
+15	93	7460977329916720	CMakeFiles/learning.dir/pointers/pointers.c.obj	de4c1a3380540dc0
+13	92	7460982003737530	CMakeFiles/learning.dir/pointers/using-pointers.c.obj	813b87a3968b6f2d
+16	103	7462206434177867	CMakeFiles/learning.dir/structs/structs.c.obj	94f8d748ced0f533
+15	97	7462215887743858	CMakeFiles/learning.dir/structs/uniao.c.obj	1d604e005b1c84d
+16	89	7462216816534534	CMakeFiles/learning.dir/structs/enum.c.obj	cc64c6d084723eb6
+4	85	7462247777956438	CMakeFiles/learning.dir/alocacao-de-memoria/maloc.c.obj	68e8154a194cd441

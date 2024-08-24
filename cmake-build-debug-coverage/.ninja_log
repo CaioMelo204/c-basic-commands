@@ -1,0 +1,8 @@
+# ninja log v6
+6	132	7460917075927768	CMakeFiles/learning.dir/main.c.obj	f843596990439e80
+20	155	7460917076077987	CMakeFiles/learning.dir/basic/variables.c.obj	48304b4b2bc7e6bd
+42	156	7460917076291848	CMakeFiles/learning.dir/basic/estruturas-decisao.c.obj	3b0caf81684159ba
+58	188	7460917076463832	CMakeFiles/learning.dir/basic/switch.c.obj	f104e27e4f01c6a7
+86	214	7460917076730216	CMakeFiles/learning.dir/basic/repetition-structures.c.obj	3d796c22de362c27
+115	223	7460917077027261	CMakeFiles/learning.dir/data-types/data-types.c.obj	9342d7105ef6f8c4
+223	323	7460917078111624	learning.exe	9c4a106053a95297
